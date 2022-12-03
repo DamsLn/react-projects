@@ -1,0 +1,20 @@
+.step-form {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.button-area {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    padding: 1em 0 1em 0;
+}
+
+.value-area {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
